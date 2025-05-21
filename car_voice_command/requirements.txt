@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+torchaudio
+pyaudio
+tqdm
+soundfile
+gdown

@@ -1,0 +1,7 @@
+tensorflow
+tf-models-official==2.7.0
+numpy
+gdown
+tensorflow_hub
+tensorflow-text
+colorama
